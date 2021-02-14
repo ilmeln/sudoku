@@ -1,1 +1,4 @@
 # sudoku
+
+
+Судоку для Android
